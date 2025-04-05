@@ -3,11 +3,20 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.21.0
-    created: "2025-04-05T15:14:31.8364495-04:00"
+    created: "2025-04-05T15:30:18.0968958-04:00"
+    description: Nginx - updated
+    digest: a939d27225054d3e5c488ad57d21eb852426c8ab727fbb0f59b9bc99d03d40e8
+    name: nginx
+    urls:
+    - nginx-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.21.0
+    created: "2025-04-05T15:30:18.0775517-04:00"
     description: A simple Nginx Helm chart
     digest: 12512ab655a5b339ff50c604d6bb76f995c09d6ae423e6c5ae938bc43f39ffe1
     name: nginx
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-05T15:14:31.8204862-04:00"
+generated: "2025-04-05T15:30:18.0757255-04:00"
